@@ -24,10 +24,10 @@ Yazacağınız testler, productiona pushladığınız koda güvenmenize yardımc
 
 ### Görev 1: Proje Kurulumu
 
-- [ ] Forklayın.
-- [ ] Klonlayın.
-- [ ] `npm install`
-- [ ] `npm start`
+- [x] Forklayın.
+- [x] Klonlayın.
+- [x] `npm install`
+- [x] `npm start`
 - [ ] Başka terminalde `npm test`
 - [ ] Editörünüzde yapıp kaydettiğiniz tüm değişiklikler için, test çalıştırıcısı tarafından tüm testler yenilenir
 - [ ] **ÖNEMLİ** Eğer testiniz geçemezse, test çalıştırıcısının hata mesajından neden başarasız olduğunu gözlemleyin
